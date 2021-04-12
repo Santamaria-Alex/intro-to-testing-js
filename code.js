@@ -3,7 +3,8 @@ function helloWorld() {
     return "Hello, World!";
 }
 
-// Ex 1
+// sayHello
 function sayHello() {
 
 }
+
